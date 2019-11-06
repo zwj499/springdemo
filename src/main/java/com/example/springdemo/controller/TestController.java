@@ -14,7 +14,7 @@ public class TestController {
 
     @GetMapping
     public String get() {
-        return "test";
+        return "test-user-zwj";
     }
 
 }
